@@ -1,5 +1,5 @@
 # Take-out delivery system
-## BUPT Course: Introduction to Computing and Foundation of Programming
+## 📕BUPT Course: Introduction to Computing and Foundation of Programming
 A simple take-out delivery system written by C.
 
 ---
