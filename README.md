@@ -11,7 +11,7 @@ We support file input and command line input.
 Input format is as following: 
 
 ```
-seq_id time x_restaurant y_restaurant x_customer y_customer
+seq_id | time | x_restaurant | y_restaurant | x_customer | y_customer
 ```
 
 ---
