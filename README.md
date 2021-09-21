@@ -23,4 +23,4 @@ seq_id | time | x_restaurant | y_restaurant | x_customer | y_customer
 
 ## ✉Contact Us
 
-Feel free to open an issue if there you have any questions about our project.
+Feel free to open an issue if you have any questions about our project.
