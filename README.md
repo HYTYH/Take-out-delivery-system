@@ -4,7 +4,7 @@ A simple take-out delivery system written by C.
 
 ---
 
-## Input Format
+## 📋Input Format
 
 We support file input and command line input.
 
@@ -16,14 +16,11 @@ seq_id | time | x_restaurant | y_restaurant | x_customer | y_customer
 
 ---
 
-## 
-
-
-## Runtime Screenshot
+## 🖼Runtime Screenshot
 <img src="./data/running.png" alt="running" style="zoom:50%;" />
 
 ---
 
-## Contact Us
+## ✉Contact Us
 
 Feel free to open an issue if there you have any questions about our project.
