@@ -17,7 +17,7 @@ seq_id | time | x_restaurant | y_restaurant | x_customer | y_customer
 ---
 
 ## 🖼Runtime Screenshot
-<img src="./data/running.png" alt="running" style="zoom:50%;" />
+<img src="./data/running.png" alt="running" width="400" />
 
 ---
 
